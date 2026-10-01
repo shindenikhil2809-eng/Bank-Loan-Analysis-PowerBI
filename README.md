@@ -68,7 +68,7 @@ Provides an executive-level overview of the loan portfolio including:
 - Good Loan vs Bad Loan analysis
 - Loan Status Grid
 
-![Bank Loan Summary Dashboard](Summary.png)
+![Bank Loan Summary Dashboard](Summery.png)
 
 ---
 
