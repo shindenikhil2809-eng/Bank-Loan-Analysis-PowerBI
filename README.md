@@ -68,7 +68,7 @@ Provides an executive-level overview of the loan portfolio including:
 - Good Loan vs Bad Loan analysis
 - Loan Status Grid
 
-![Bank Loan Summary Dashboard](Dashboard/Summary.png)
+![Bank Loan Summary Dashboard](Summary.png)
 
 ---
 
@@ -85,7 +85,7 @@ Key visualizations include:
 - Total Funded Amount by Loan Purpose
 - Total Funded Amount by Home Ownership
 
-![Bank Loan Overview Dashboard](Dashboard/Overview.png)
+![Bank Loan Overview Dashboard](Overview.png)
 
 ---
 
@@ -106,7 +106,7 @@ The dashboard includes:
 - Installment
 - Amount Collection
 
-![Bank Loan Details Dashboard](Dashboard/Details.png)
+![Bank Loan Details Dashboard](Details.png)
 
 ---
 
